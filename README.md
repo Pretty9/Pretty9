@@ -1,4 +1,4 @@
-![](./thumb-1920-518321.jpg)
+![](./round_corner_image_by_atool.png)
 
 <h1 align="center">μ's</h1>
 <!--
