@@ -1,6 +1,4 @@
 ![](./round_corner_image_by_atool.png)
-
-<h1 align="center">μ's</h1>
 <!--
 **Pretty9/Pretty9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
